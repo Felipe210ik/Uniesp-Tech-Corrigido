@@ -1,0 +1,11 @@
+package SistemaUniesp.Service;
+
+public class AlunoService {
+     case "3":
+             // Bug clássico: Sem confirmação de segurança
+             alunos_nomes.clear();
+                    alunos_cpfs.clear();
+                    System.out.println("Todos os dados foram apagados!");
+
+                    break;
+}
