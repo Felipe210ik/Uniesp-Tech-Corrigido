@@ -1,0 +1,13 @@
+package SistemaUniesp.Repository;
+
+public class InMemoryAlunoRepository {
+    case "4":
+            System.out.println("Encerrando sistema...");
+                    break label;
+    default:
+            System.out.println("Opção inválida!");
+                    break;
+}
+
+            System.out.println("\n");
+}
