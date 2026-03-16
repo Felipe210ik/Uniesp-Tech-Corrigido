@@ -1,0 +1,15 @@
+package SistemaUniesp.Repository;
+
+public class AlunoRepositorio {
+
+    label:
+            while (true) {
+        System.out.println("======= SISTEMA ACADÊMICO UNIESP TECH =======");
+        System.out.println("1 - Cadastrar Aluno");
+        System.out.println("2 - Listar Alunos");
+        System.out.println("3 - Deletar Tudo (CUIDADO!)");
+        System.out.println("4 - Sair");
+        System.out.print("Escolha: ");
+
+        String opcao = leitor.nextLine();
+}
