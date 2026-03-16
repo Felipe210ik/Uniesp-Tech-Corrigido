@@ -1,0 +1,6 @@
+package SistemaUniesp.Model;
+
+public class Aluno {
+
+    static ArrayList<String> alunos_nomes = new ArrayList<>();
+    static ArrayList<String> alunos_cpfs = new ArrayList<>();
